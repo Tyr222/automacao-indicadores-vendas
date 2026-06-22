@@ -1,5 +1,8 @@
 # 🚀 Pipeline de Automação de Dados de Vendas e Envio de E-mails
 
+<img width="1128" height="785" alt="print" src="https://github.com/user-attachments/assets/0bcab8ec-e875-4deb-a0c4-ddb5c4456d6c" />
+
+
 ## 📌 O Desafio
 O processamento manual de dados de vendas diárias e anuais para múltiplas filiais é altamente ineficiente. Além de consumir horas de trabalho repetitivo, introduz um risco crítico de fuga de informação — como o envio acidental de dados financeiros confidenciais de uma filial para o gerente de outra unidade.
 
